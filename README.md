@@ -40,6 +40,112 @@
   <img src="https://img.shields.io/badge/📦%20Contributions-0-F43F5E?style=for-the-badge&logo=github&logoColor=white&labelColor=0A101F" />
 </p>
 
+<div align="center">
+
+<h2>🛠️ My Tech Stack</h2>
+
+<p><i>Building • Learning • Experimenting • Improving</i></p>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center" width="300">
+
+<h3>🤖 AI & Machine Learning</h3>
+
+<img src="https://skillicons.dev/icons?i=python" alt="Python">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%2FML-Currently%20Learning-8A2BE2?style=for-the-badge" alt="AI ML">
+
+<br><br>
+
+<sub>Currently building my foundation in AI & Machine Learning</sub>
+
+</td>
+
+<td align="center" width="300">
+
+<h3>💻 Programming</h3>
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js" alt="Programming">
+
+<br><br>
+
+<sub>C++ • Java • Python • JavaScript</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="300">
+
+<h3>🌐 Frontend</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend">
+
+<br><br>
+
+<sub>HTML • CSS • JavaScript • React.js</sub>
+
+</td>
+
+<td align="center" width="300">
+
+<h3>⚙️ Backend & Database</h3>
+
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" alt="Backend">
+
+<br><br>
+
+<sub>Node.js (Learning) • MySQL • MongoDB</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="300">
+
+<h3>🛠️ Tools & Environment</h3>
+
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,linux" alt="Tools">
+
+<br><br>
+
+<sub>VS Code • IntelliJ IDEA • Git • Linux</sub>
+
+</td>
+
+<td align="center" width="300">
+
+<h3>🚀 Deployment</h3>
+
+<img src="https://skillicons.dev/icons?i=netlify,vercel" alt="Deployment">
+
+<br><br>
+
+<sub>Netlify • Vercel</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-8A2BE2?style=for-the-badge" alt="AI ML Focus">
+
+<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-00C853?style=for-the-badge" alt="Learning and Building">
+
+</div>
+
 
 
 
