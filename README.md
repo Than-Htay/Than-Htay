@@ -227,3 +227,9 @@
 `./profile.sh --live`
 
 </p>
+<div align="center">
+
+  <a href="#gh-light-mode-only">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7928CA&height=150&section=footer#gh-light-mode-only" width="100%" alt="Footer Wave Light" />
+  </a>
+</div>
