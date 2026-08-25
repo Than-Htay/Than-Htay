@@ -40,51 +40,16 @@
   <img src="https://img.shields.io/badge/📦%20Contributions-0-F43F5E?style=for-the-badge&logo=github&logoColor=white&labelColor=0A101F" />
 </p>
 
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Than-Htay&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=600" alt="Top Languages" />
-</p>
 
 
-
-<!-- Stats + Top languages — side by side -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-INSTANCE.vercel.app/api?username=Than-Htay&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=Than-Htay&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Than-Htay&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Than-Htay&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top Languages" />
-</picture>
-
-</div>
 
 ---
-
 <!-- ============================================================
      GITHUB TROPHIES
      ============================================================ -->
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Than-Htay&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
 
----
-
-<!-- ============================================================
-     ACTIVITY GRAPH
-     ============================================================ -->
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Than-Htay&theme=tokyonight" alt="Activity Graph" />
-</p>
-
----
 
 <!-- ============================================================
      CONTRIBUTION SNAKE
